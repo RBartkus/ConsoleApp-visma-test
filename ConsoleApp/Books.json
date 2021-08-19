@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "The Godfather",
+    "Author": "Mario Puzo",
+    "Category": "Crime novel",
+    "Language": "Lithuanian",
+    "PublicationDate": 0,
+    "ISBN": "5-89942-284-X",
+    "Taken": false
+  },
+  {
+    "Name": "Naktis Lisabonoje",
+    "Author": "Erich Maria Remark",
+    "Category": "War novel",
+    "Language": "Lithuanian",
+    "PublicationDate": 0,
+    "ISBN": "9986-16-338-2",
+    "Taken": false
+  },
+  {
+    "Name": "Sapiens - Glausta Žmonijos Istorija",
+    "Author": "Yuval Noah Harari",
+    "Category": "History",
+    "Language": "Lithuanian",
+    "PublicationDate": 0,
+    "ISBN": "978-609-427-327-8",
+    "Taken": false
+  },
+  {
+    "Name": "Kelyje",
+    "Author": "Jack Kerouac",
+    "Category": "Crime novel",
+    "Language": "Lithuanian",
+    "PublicationDate": 0,
+    "ISBN": "9955-584-47-5",
+    "Taken": false
+  },
+  {
+    "Name": "Krikstatevis 2",
+    "Author": "MArio Puzo",
+    "Category": "crime",
+    "Language": null,
+    "PublicationDate": 1966,
+    "ISBN": "9999-5sasd-88888",
+    "Taken": false
+  },
+  {
+    "Name": "Zoo",
+    "Author": "Micke Elephant",
+    "Category": "drama",
+    "Language": "Lithuanian",
+    "PublicationDate": 2005,
+    "ISBN": "999-888-888",
+    "Taken": false
+  }
+]
